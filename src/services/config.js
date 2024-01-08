@@ -3,11 +3,11 @@ import { getFirestore } from "firebase/firestore"
 
 const firebaseConfig = {
     apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
-    authDomain: "bishoujo-vibes-186bc.firebaseapp.com",
-    projectId: "bishoujo-vibes-186bc",
-    storageBucket: "bishoujo-vibes-186bc.appspot.com",
-    messagingSenderId: "398677957338",
-    appId: "1:398677957338:web:e3fb1b1c4d0e90a250a3e3"
+    authDomain: "bishoujo-vibes.firebaseapp.com",
+    projectId: "bishoujo-vibes",
+    storageBucket: "bishoujo-vibes.appspot.com",
+    messagingSenderId: "963152598472",
+    appId: "1:963152598472:web:d7617b53cc44ce6d6bdcfd"
 };
 
 const app = initializeApp(firebaseConfig);
