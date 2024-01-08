@@ -1,5 +1,5 @@
 # Bishoujo Vibes
-Este es un proyecto de e-comerce básico que se utiliza para el curso de React JS. La aplicación permite ver una lista de productos (ropa) y realizar compras en línea. Los productos y las órdenes de compra se almacenan en Firebase.
+Este es un proyecto de e-commerce básico que se utiliza para el curso de React JS. La aplicación permite ver una lista de productos (ropa) y realizar compras en línea. Los productos y las órdenes de compra se almacenan en Firebase.
 
 ## Tecnologías utilizadas
 - Vite
