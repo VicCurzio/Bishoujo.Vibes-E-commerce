@@ -17,7 +17,6 @@ const ItemCount = ({ inicial, stock, funcionAgregar }) => {
         }
     }
 
-
     return (
         <>
             <div>
